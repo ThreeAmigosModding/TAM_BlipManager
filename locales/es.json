@@ -1,0 +1,14 @@
+{
+    "command.menu": "createblip",
+    "command.menu.help": "Crea un blip en tu ubicación actual.",
+    "command.reload": "reloadblips",
+    "command.reload.help": "Recarga los blips del mapa.",
+    "notify.success.savedBlips": "Blips guardados con éxito",
+    "notify.success.reloadedBlips": "Blips recargados",
+    "notify.info.reloadingBLips": "Recargando blips",
+    "menu.title": "TAM_BlipManager",
+    "menu.blipLabel": "Etiqueta del Blip",
+    "menu.blipSprite": "Sprite del Blip",
+    "menu.blipColor": "Color del Blip",
+    "menu.blipScale": "Escala del Blip"
+}

@@ -1,0 +1,14 @@
+{
+    "command.menu": "createblip",
+    "command.menu.help": "Erstellt einen Blip an Ihrer aktuellen Position.",
+    "command.reload": "reloadblips",
+    "command.reload.help": "Lädt die Blips der Karte neu.",
+    "notify.success.savedBlips": "Blips erfolgreich gespeichert",
+    "notify.success.reloadedBlips": "Blips neu geladen",
+    "notify.info.reloadingBLips": "Blips werden neu geladen",
+    "menu.title": "TAM_BlipsManager",
+    "menu.blipLabel": "Blip-Beschriftung",
+    "menu.blipSprite": "Blip-Sprite",
+    "menu.blipColor": "Blip-Farbe",
+    "menu.blipScale": "Blip-Skalierung"
+}

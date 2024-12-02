@@ -1,0 +1,14 @@
+{
+    "command.menu": "createblip",
+    "command.menu.help": "Crée un blip à votre position actuelle.",
+    "command.reload": "reloadblips",
+    "command.reload.help": "Recharge les blips de la carte.",
+    "notify.success.savedBlips": "Blips enregistrés avec succès",
+    "notify.success.reloadedBlips": "Blips rechargés",
+    "notify.info.reloadingBLips": "Rechargement des blips",
+    "menu.title": "TAM_BlipCreator",
+    "menu.blipLabel": "Étiquette du Blip",
+    "menu.blipSprite": "Sprite du Blip",
+    "menu.blipColor": "Couleur du Blip",
+    "menu.blipScale": "Échelle du Blip"
+}
